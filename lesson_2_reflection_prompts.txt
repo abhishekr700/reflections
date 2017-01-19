@@ -18,6 +18,9 @@ They will help me working simultaneously on 2 different features together.They w
 master branch while experimenting around.
 
 How do the diagrams help you visualize the branch structure?
+They help us get an idea that where were the branches separated, what is common to them, what commits are inaccesible and where were 
+they mergeed again
+
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
