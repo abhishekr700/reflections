@@ -24,6 +24,8 @@ they mergeed again
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+We can combine 2 features/bug fixes etc to our master branch and thus update our software with new changes that we did.
+We represent it in that way because it is easier to understand and also solves confusion about parents and all.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
