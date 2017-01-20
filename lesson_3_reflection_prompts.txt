@@ -5,8 +5,7 @@ That would help me work across multiple devices, have multiple collaborators, an
 
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
-
-    Fill in your answer here
+Because we may be on a different branch working on something else, pull may cause a major havoc here by adding wrong data to current branch.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
