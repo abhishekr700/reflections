@@ -9,8 +9,9 @@ Because we may be on a different branch working on something else, pull may caus
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
-
-    Fill in your answer here
+Brnaches are when you want to work on two separate things in the same project.
+Clones are when you want to copy your/other work and add your modifications etc
+Fork is github's private invention, to make sure the original creator gets the credit and also makes the process of cloning to server easily.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
