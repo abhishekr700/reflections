@@ -21,7 +21,7 @@ Also, it helps us by saving remote changes offline for viewing later.
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 Obviously it would be hard to review the code, also it would be difficult because only one person would be able to work at a time.
+
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
-
-    Fill in your answer here
+That keeps a working master branch while we're working on other features. That way our work is still presentable as well as under development.
