@@ -15,8 +15,8 @@ Fork is github's private invention, to make sure the original creator gets the c
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
-
-    Fill in your answer here
+It helps git keep track of changes in remoote repo so that code can be merged effectively while syncing.
+Also, it helps us by saving remote changes offline for viewing later.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
